@@ -8,10 +8,12 @@ Or use already made account for testing:
 
 User account:
 Email:     test1@hotmail.com
-Password:  Trainer account:
+
+Password:  testaccount1
 
 Trainer account:
 Email:     trainer1@hotmail.com
+
 Password:  trainer1
 
 ## Features
