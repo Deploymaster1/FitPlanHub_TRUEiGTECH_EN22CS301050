@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fitness Social Platform
 
 A social media platform for fitness enthusiasts and trainers to connect and share workout plans.
@@ -72,3 +73,7 @@ A social media platform for fitness enthusiasts and trainers to connect and shar
 - Like and comment on posts
 - Trainers can create and manage workout plans
 
+=======
+# FitPlanHub_TRUEiGTECH_EN22CS301050
+Task project for TRUEiGTECH
+>>>>>>> 7304e70e10475d61c76856984c672bcad8434587
