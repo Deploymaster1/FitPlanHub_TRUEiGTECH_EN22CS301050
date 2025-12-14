@@ -54,8 +54,8 @@ Password:  trainer1
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fitness-social-app.git
-   cd fitness-social-app
+   git clone <command>
+   cd <>
    ```
 
 2. Install dependencies:
