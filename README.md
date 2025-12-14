@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Fitness Social Platform
+# Fitness Social Platform (FitPlanHub) https://fitplanhuben22cs301050.pages.dev/
 
 A social media platform for fitness enthusiasts and trainers to connect and share workout plans.
 
