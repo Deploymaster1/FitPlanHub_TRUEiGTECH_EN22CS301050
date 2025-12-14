@@ -1,6 +1,18 @@
 # Fitness Social Platform (FitPlanHub) https://fitplanhuben22cs301050.pages.dev/
 
 A social media platform for fitness enthusiasts and trainers to connect and share workout plans.
+Create account for both User and Trainer (Sign UP)
+Full feature access will be after sign in/up only 
+
+Or use already made account for testing:
+
+User account:
+Email:     test1@hotmail.com
+Password:  Trainer account:
+
+Trainer account:
+Email:     trainer1@hotmail.com
+Password:  trainer1
 
 ## Features
 
@@ -72,7 +84,6 @@ A social media platform for fitness enthusiasts and trainers to connect and shar
 - Like and comment on posts
 - Trainers can create and manage workout plans
 
-=======
-# FitPlanHub_TRUEiGTECH_EN22CS301050
+# FitPlanHub_TRUEiGTECH_EN22CS301050 https://fitplanhuben22cs301050.pages.dev/
 Task project for TRUEiGTECH
->>>>>>> 7304e70e10475d61c76856984c672bcad8434587
+
