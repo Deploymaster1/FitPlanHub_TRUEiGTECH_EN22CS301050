@@ -66,8 +66,7 @@ Password:  trainer1
    ```
 
 3. Set up environment variables:
-   - Copy `.env.example` to `.env`
-   - Add your Supabase credentials
+   - Add your Supabase credentials in the .env file
 
 4. Start development server:
    ```bash
